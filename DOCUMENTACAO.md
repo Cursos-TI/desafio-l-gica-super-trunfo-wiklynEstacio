@@ -124,8 +124,6 @@ novas cidades.
   - PIB.
   - PIB per capita: calculado como a razão entre PIB e População.
   - Número de pontos turísticos.
-  - Super poder: calculado como a soma do inverso da densidade populacional
-  com todas as outras propriedades de valores numéricos.
 
 ### 2. Registro de duas cartas e comparação da propriedade "População"
 
