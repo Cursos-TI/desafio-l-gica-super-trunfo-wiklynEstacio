@@ -48,7 +48,11 @@ void show_functionalities_menu();
  * 
  *         - 1: Registro de cartas.
  * 
- *         - 2: Registro e comparação de cartas.
+ *         - 2: Registro de duas cartas e comparação da propriedade População.
+ * 
+ *         - 3: Registro de duas cartas e comparação de uma propriedade escolhida pelo usuário.
+ * 
+ *         - 4: Registro de duas cartas e comparação de da soma de duas propriedades escolhidas pelo usuário.
  */
 int choose_functionality();
 
